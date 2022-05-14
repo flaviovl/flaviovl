@@ -7,7 +7,7 @@
 [![linkdin](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](flavio.vl@gmail.com)
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/flavio.vl)
 
-<img width="355" align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img width="300" align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <!-- <img width="355" align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif"> -->
 
 ```python
