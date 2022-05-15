@@ -37,7 +37,7 @@ me = FlavioVL()
 
 
 <details>
-    <summary align="left"><b>💻 Saber mais...</b></summary>
+    <summary align="center"><b>💻 Mais...</b></summary>
 <br />
 
 ```python
@@ -106,4 +106,4 @@ def contact_me():
 
 <hr>
 
-#### *As vezes tenho dificuldade de alternar entre perfeccionismo e pragmatismo!*
+
