@@ -32,13 +32,14 @@ class FlavioVl():
         print(f"Eu sou {name}"
         print(f"Estudo {degree["couse"]} na {degree["university"]}"
 
+
 me = FlavioVL()
 ```
 
 
 
 <details>
-    <summary align="center"><b>💻 Mais...</b></summary>
+    <summary align="center"><b>💻 Mais . . .</b></summary>
 <br />
 
 ```python
