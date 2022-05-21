@@ -13,19 +13,20 @@
 ```python
 @dataclass(frozen=True)
 class FlavioVl():
-    name: str = "Flavio Vieira Leao"
-    email: str = "flavio.vl@gmail.com"
+    name:     str = "Flavio Vieira Leao"
+    email:    str = "flavio.vl@gmail.com"
     linkedin: str = "/flavio-vieira-51465948/"
+    
     degree: dict[str, str] = {
         "university" : "UnB - Universidade de Brasíia",
-        "course" : "Engenharia de Software",
-        "status" : "in progress"
+        "course"     : "Engenharia de Software",
+        "status"     : "in progress"
     }
-    resume: str = field(default_factor=whoami())
-    skills: list[str] = field(default_factor=my_skills())
-    learning: list[str] = field(default_factor=learning())
-    github_analytics: list[str] = field(default_factor=readme_stats())
-    social_media: list[str] = field(default_factor=contact_me())
+    resume:    str       = field(default_factor=whoami())
+    skills:    list[str] = field(default_factor=my_skills())
+    learning:  list[str] = field(default_factor=learning())
+    analytics: list[str] = field(default_factor=readme_stats())
+    social:    list[str] = field(default_factor=contact_me())
 
     def __post_init__(self):
         print(f"Eu sou {name}"
