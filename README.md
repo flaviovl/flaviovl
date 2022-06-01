@@ -1,5 +1,5 @@
 <h2> Olá, eu sou o Flavio Vieira, seja bem vindo!
-<img src="https://media4.giphy.com/media/J5qBxLPcMvXcSdPjKl/giphy.gif?cid=790b7611e76ccb07505ccd4e9558c1b538be19a54be9670a&rid=giphy.gif&ct=s" width="10px"></img>
+<img src="https://media4.giphy.com/media/J5qBxLPcMvXcSdPjKl/giphy.gif?cid=790b7611e76ccb07505ccd4e9558c1b538be19a54be9670a&rid=giphy.gif&ct=s" width="45"></img>
 </h1>
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-vieira-51465948/)
@@ -15,7 +15,7 @@
 class FlavioVl():
     name:     str = "Flavio Vieira Leao"
     email:    str = "flavio.vl@gmail.com"
-    linkedin: str = "/flavio-vieira-51465948/"
+    linkedin: str = "/in/flavio-vieira-51465948/"
     
     degree: dict[str, str] = {
         "university" : "UnB - Universidade de Brasíia",
@@ -46,12 +46,11 @@ me = FlavioVL()
 def whoami():
 
 ```
-Sou estudante de Engenharia de Software na Universidade de Brasília, entusiasta pelo mundo da programação e tecnologia, principalmente em desenvolvimento backend.
+Sou estudante de Engenharia de Software na Universidade de Brasília, entusiasta pelo mundo da programação e tecnologia, principalmente em desenvolvimento backend e DevOps.
 
-Tenho aprendizado rápido e muita vontade de explorar novas tecnologias. Procuro desafios para crescer de forma acelerada. Capaz e disposto a pensar fora da caixa para resolver problemas e buscar novos conhecimentos.
+Conhecimento e experiência em projetos com tecnologias como Python, Django e Django Rest Framework, API Rest, Docker, Git/Github, Banco de dados (PostgreSQL, MySQL, SQLite3)
 
-Atualmente estou concentrando meus estudos práticos em python, django, APIs REST com DRF.  
-Interesses atuais: Clean Code, Design Patterns e Domain-Driven Design.
+Estudando: Boas práticas de programação orientada a objetos e design de código (Clean Code, Design Patterns e SOLID).
 
 </br>
 </br>
