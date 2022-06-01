@@ -1,5 +1,5 @@
 <h2> Olá, eu sou o Flavio Vieira, seja bem vindo!
-<img src="https://media4.giphy.com/media/J5qBxLPcMvXcSdPjKl/giphy.gif?cid=790b7611e76ccb07505ccd4e9558c1b538be19a54be9670a&rid=giphy.gif&ct=s" width="50px"></img>
+<img src="https://media4.giphy.com/media/J5qBxLPcMvXcSdPjKl/giphy.gif?cid=790b7611e76ccb07505ccd4e9558c1b538be19a54be9670a&rid=giphy.gif&ct=s" width="10px"></img>
 </h1>
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-vieira-51465948/)
