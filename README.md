@@ -16,7 +16,6 @@ class FlavioVl():
     name:     str = "Flavio Vieira Leao"
     email:    str = "flavio.vl@gmail.com"
     linkedin: str = "/in/flavio-vieira-51465948/"
-    
     degree: dict[str, str] = {
         "university" : "UnB - Universidade de Brasíia",
         "course"     : "Engenharia de Software",
